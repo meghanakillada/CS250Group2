@@ -1,4 +1,4 @@
-# CS250Group2 - Receipe and Cooking App
+# CS250Group2 - Recipe and Meal Planning App
 Team member: Maggie, Mariam, Gerardo, Khoa
 
 Visit this document for our project progress: 
